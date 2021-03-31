@@ -40,7 +40,7 @@ Photo by Terry Vlisidis on Unsplash
 2. Detecting Compound Vertices (graph theory) https://www.kaggle.com/thomaskonstantin/detecting-compound-vertices-molecular-translation
 3. SMIlES solution to a programming challenge winning solution: https://dacon.io/competitions/official/235640/talkboard/402474?page=1&dtype=recent&ptype=pub
 4. Genetic Algorithm for Naive Baseline submission from kaggle (score 69): https://www.kaggle.com/andypenrose/genetic-algorithm-for-naive-baseline
-
+5. Academic paper **Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations**: https://pubs.rsc.org/en/content/articlepdf/2019/sc/c8sc04175j
 ## Extending the trainining data set
 1. PubChem - 57 million molecules https://pubchem.ncbi.nlm.nih.gov/
 2. Wikidata - 12 thousand compound + image e.g. https://www.wikidata.org/wiki/Q27075960
